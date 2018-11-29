@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dreipol/eslint-config.git"
+    "url": "git+https://github.com/dreipol/eslint-config-vue.git"
   },
   "author": "Dreipol <dev@dreipol.ch> (http://dreipol.ch)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dreipol/eslint-config/issues"
+    "url": "https://github.com/dreipol/eslint-config-vue/issues"
   },
   "peerDependencies": {
     "eslint-plugin-vue": "^4.5.0"
   },
-  "homepage": "https://github.com/dreipol/eslint-config#readme"
+  "homepage": "https://github.com/dreipol/eslint-config-vue#readme"
 }
