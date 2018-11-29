@@ -1,0 +1,23 @@
+{
+  "name": "@dreipol/eslint-config-vue",
+  "version": "0.0.0",
+  "description": "Eslint configuration for our vue frontend",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "prepublish": "npm test",
+    "test": "node -e \"require('./')\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreipol/eslint-config.git"
+  },
+  "author": "Dreipol <dev@dreipol.ch> (http://dreipol.ch)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreipol/eslint-config/issues"
+  },
+  "peerDependencies": {
+    "eslint-plugin-vue": "^4.5.0"
+  },
+  "homepage": "https://github.com/dreipol/eslint-config#readme"
+}
