@@ -17,7 +17,7 @@
     "url": "https://github.com/dreipol/eslint-config-vue/issues"
   },
   "peerDependencies": {
-    "eslint-plugin-vue": "^4.5.0"
+    "eslint-plugin-vue": "^5.1.0"
   },
   "homepage": "https://github.com/dreipol/eslint-config-vue#readme"
 }
