@@ -20,6 +20,21 @@ module.exports = {
                 ],
             },
         ],
+        "vue/html-closing-bracket-newline": [
+            "error",
+            {
+                "singleline": "never",
+                "multiline": "never"
+            }
+        ],
+        'vue/html-closing-bracket-spacing': [
+            'warn',
+            {
+                'startTag': 'never',
+                'endTag': 'never',
+                'selfClosingTag': 'never'
+            }
+        ],
         'vue/html-indent': [
             'error',
             4,
