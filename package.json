@@ -16,8 +16,9 @@
   "bugs": {
     "url": "https://github.com/dreipol/eslint-config-vue/issues"
   },
+  "homepage": "https://github.com/dreipol/eslint-config-vue#readme",
   "peerDependencies": {
+    "eslint": "^5.13.0",
     "eslint-plugin-vue": "^5.1.0"
   },
-  "homepage": "https://github.com/dreipol/eslint-config-vue#readme"
 }
