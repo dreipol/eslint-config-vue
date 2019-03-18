@@ -9,4 +9,4 @@ npm i eslint-plugin-vue @dreipol/eslint-config-vue -D
 
 ## Usage
 
-Add `"extends": "@dreipol/eslint-config-vue"` to your `.stylelintrc` file
+Add `"extends": "@dreipol/eslint-config-vue"` to your `.eslintrc` file
