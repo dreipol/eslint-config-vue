@@ -12,6 +12,7 @@ module.exports = {
           'LIST_RENDERING',
           'CONDITIONALS',
           'RENDER_MODIFIERS',
+          'OTHER_DIRECTIVES',
           'GLOBAL',
           'UNIQUE',
           'BINDING',
