@@ -4,7 +4,7 @@
   "description": "Eslint configuration for our vue frontend",
   "main": ".eslintrc.js",
   "scripts": {
-    "prepublish": "npm test",
+    "prepublishOnly": "npm test",
     "test": "node -e \"require('./')\""
   },
   "repository": {
