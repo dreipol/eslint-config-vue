@@ -1,6 +1,6 @@
 {
   "name": "@dreipol/eslint-config-vue",
-  "version": "2.0.4",
+  "version": "3.0.0",
   "description": "Eslint configuration for our vue frontend",
   "main": ".eslintrc.js",
   "scripts": {
