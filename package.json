@@ -19,6 +19,6 @@
   "homepage": "https://github.com/dreipol/eslint-config-vue#readme",
   "peerDependencies": {
     "eslint": "^6.0.0 || ^7.0.0",
-    "eslint-plugin-vue": "^6.1.2"
+    "eslint-plugin-vue": "^7.4.1"
   }
 }
